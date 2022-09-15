@@ -1,0 +1,15 @@
+{
+    "name": "AMB-Token",
+    "description": "NutsDAO社區組織專屬推廣代表",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmXT1G1bQWnYxpD6fLNzSGzjPjuMoPbRktVk3WLNnWNroY/AMB",
+    "attributes": [
+        {
+            "trait_type": "SSR驗證人",
+            "value": ""
+        },
+        {
+            "trait_type": "DAO社區節點關系",
+            "value": ""
+        }
+    ]
+}
