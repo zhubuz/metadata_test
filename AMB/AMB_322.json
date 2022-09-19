@@ -1,0 +1,15 @@
+{
+    "name": "AMB-Token",
+    "description": "NutsDAO Community Organization Exclusive Promotion Representative",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmXT1G1bQWnYxpD6fLNzSGzjPjuMoPbRktVk3WLNnWNroY/AMB",
+    "attributes": [
+        {
+            "trait_type": "SSR Validator",
+            "value": ""
+        },
+        {
+            "trait_type": "DAO Community Node Relations",
+            "value": ""
+        }
+    ]
+}
