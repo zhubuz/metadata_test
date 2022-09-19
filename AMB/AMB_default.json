@@ -1,14 +1,14 @@
 {
   "name": "AMB-Token",
-  "description": "NutsDAO社區組織專屬推廣代表",
+  "description": "NutsDAO Community Organization Exclusive Promotion Representative",
   "image": "",
   "attributes": [
     {
-      "trait_type": "SSR驗證人",
+      "trait_type": "SSR Validator",
       "value": ""
     },
     {
-      "trait_type": "DAO社區節點關系",
+      "trait_type": "DAO Community Node Relations",
       "value": ""
     }
   ]
