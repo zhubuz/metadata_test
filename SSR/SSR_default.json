@@ -1,26 +1,26 @@
 {
   "name": "",
-  "description": "NutsDAO社區治理委員",
+  "description": "NutsDAO Community Governance Member",
   "image": "",
   "attributes": [
     {
-      "trait_type": "等級",
+      "trait_type": "Level",
       "value": "SSR"
     },
     {
-      "trait_type": "治理權重",
+      "trait_type": "Governance Power",
       "value": ""
     },
     {
-      "trait_type": "治理期限",
+      "trait_type": "Governance Duration",
       "value": ""
     },
     {
-      "trait_type": "推廣關系",
+      "trait_type": "Promotional Relations",
       "value": ""
     },
 	{
-      "trait_type": "資產價值預估",
+      "trait_type": "Asset Valuation",
       "value": ""
     }
   ]
