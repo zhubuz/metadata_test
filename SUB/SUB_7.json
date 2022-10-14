@@ -1,0 +1,11 @@
+{
+    "name": "SUB-Token",
+    "description": "NutsDAO Community Organization Dedicated Node Member",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmRzqvzUbQXfLpzp6h3nwRfCgrUR5SwHqre8jLR7NwTm4r/SUB",
+    "attributes": [
+        {
+            "trait_type": "Associated Person",
+            "value": ""
+        }
+    ]
+}
